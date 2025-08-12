@@ -12,4 +12,4 @@ A modern and minimal digital clock featuring:
 ## How to Use
 1. Clone or download the project:
 ```bash
-git clone https://github.com/USERNAME/adaptive-digital-clock.git
+https://github.com/amir-akbari361/clock.git
